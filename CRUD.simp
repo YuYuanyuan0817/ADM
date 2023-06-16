@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="8.35" multi-file="no">
+  <meta>
+    <name>Project</name>
+    <authors> </authors>
+    <description />
+  </meta>
+  <counters models="1">
+    <entity-names />
+    <entity-ids>
+      <counter>
+        <item-type stereotype="" type="AbstractMatrixElement" />
+        <value>4</value>
+      </counter>
+      <counter>
+        <item-type stereotype="" type="AbstractElementGroup" />
+        <value>5</value>
+      </counter>
+      <counter>
+        <item-type stereotype="" type="UmlComment" />
+        <value>2</value>
+      </counter>
+      <counter>
+        <item-type stereotype="" type="UmlCommentConnector" />
+        <value>2</value>
+      </counter>
+    </entity-ids>
+    <diagrams>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.Diagrams.Matrices.MatrixDiagram</type>
+        <value>3</value>
+      </counter>
+    </diagrams>
+    <fields />
+  </counters>
+  <alias-groups />
+  <management>
+    <persons>
+      <person id="Pf65a13bdec20478fa2927d1a8dfc8356">
+        <first-name />
+        <last-name />
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <tasks />
+    <requirements />
+    <issues />
+    <to-dos />
+  </management>
+  <glossary />
+  <types>
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types />
+  </types>
+  <filters />
+  <items>
+    <item id="di623884619750009052" cid="MTX001" type="matrix" name="Matrix1" style-class="" is-abstract="false" is-root="false" is-leaf="false" is-active="false" visibility="package" creator="Pf65a13bdec20478fa2927d1a8dfc8356" creation-date="06/16/2023 03:48:47">
+      <stereotypes />
+      <associated-diagrams />
+      <owned-items />
+      <style style-name="Default" shadow-type="smooth" shadow-offset="1,1" shadow-visible="true" shadow-color="#3C000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9" name-use-defaults="false" name-color="#FF000000" name-font="Verdana;10;B" name-horizontal-alignment="center" name-vertical-alignment="center" part-header-use-defaults="false" part-header-color="#FF1E1E1E" part-header-font="Verdana;9;I" part-header-horizontal-alignment="center" part-header-vertical-alignment="center" text-use-defaults="false" text-color="#FF000000" text-font="Verdana;9;" text-horizontal-alignment="left" text-vertical-alignment="center" tagged-value-use-defaults="false" tagged-value-color="#FF1E1E1E" tagged-value-font="Verdana;9;I" tagged-value-horizontal-alignment="center" tagged-value-vertical-alignment="center" stereotype-use-defaults="false" stereotype-color="#FF1E1E1E" stereotype-font="Verdana;9;I" stereotype-horizontal-alignment="center" stereotype-vertical-alignment="center">
+        <background type="vertical-linear" color="#FFD3D3D3" color2="#FFFFFFFF" />
+        <border color="#FF000000" width="1" dash-style="Solid" />
+        <label-connector color="#80000000" width="1" dash-style="Dash" />
+        <alternate-styles>
+          <alternate-style style-name="Alternate" shadow-type="smooth" shadow-offset="1,1" shadow-color="#3C000000" gloss-effect="true" wrap-name-text="true" wrap-other-text="true" padding="1" margin="1" glow-color="#FFFFFFFF" accuracy="0.9" name-use-defaults="false" name-color="#FF000000" name-font="Verdana;10;B" name-horizontal-alignment="center" name-vertical-alignment="center" part-header-use-defaults="false" part-header-color="#FF1E1E1E" part-header-font="Verdana;9;I" part-header-horizontal-alignment="center" part-header-vertical-alignment="center" text-use-defaults="false" text-color="#FF000000" text-font="Verdana;9;" text-horizontal-alignment="left" text-vertical-alignment="center" tagged-value-use-defaults="false" tagged-value-color="#FF1E1E1E" tagged-value-font="Verdana;9;I" tagged-value-horizontal-alignment="center" tagged-value-vertical-alignment="center" stereotype-use-defaults="false" stereotype-color="#FF1E1E1E" stereotype-font="Verdana;9;I" stereotype-horizontal-alignment="center" stereotype-vertical-alignment="center">
+            <background type="vertical-linear" color="#FF1E90FF" color2="#FF87CEFA" />
+            <border color="#FF00008B" width="1" dash-style="Solid" />
+            <label-connector color="#FF000000" width="1" dash-style="Solid" />
+          </alternate-style>
+        </alternate-styles>
+      </style>
+      <matrix ref="p593672682123511273" />
+    </item>
+    <item id="di764622106229769296" cid="MTX002" type="matrix" name="Matrix2" style-class="" is-abstract="false" is-root="false" is-leaf="false" is-active="false" visibility="package" creator="Pf65a13bdec20478fa2927d1a8dfc8356" creation-date="06/16/2023 03:53:06">
+      <stereotypes />
+      <associated-diagrams />
+      <owned-items />
+      <style class="default" />
+      <matrix ref="p150208374538255223" />
+    </item>
+    <item id="di107673510567836339" cid="MTX003" type="matrix" name="Matrix3" style-class="" is-abstract="false" is-root="false" is-leaf="false" is-active="false" visibility="package" creator="Pf65a13bdec20478fa2927d1a8dfc8356" creation-date="06/16/2023 04:09:06">
+      <stereotypes />
+      <associated-diagrams />
+      <owned-items />
+      <style class="default" />
+      <matrix ref="p779395804680195954" />
+    </item>
+    <item id="di193538829521252270" cid="CMT001" type="comment" name="Comment" style-class="" is-abstract="false" is-root="false" is-leaf="false" is-active="false" visibility="package" creator="Pf65a13bdec20478fa2927d1a8dfc8356" creation-date="06/16/2023 04:13:33">
+      <stereotypes />
+      <associated-diagrams />
+      <owned-items />
+      <style class="default" />
+      <comment />
+    </item>
+    <item id="di466665995311412890" cid="CN001" type="comment-connector" name="" style-class="" is-abstract="false" is-root="false" is-leaf="false" is-active="false" visibility="package" creator="Pf65a13bdec20478fa2927d1a8dfc8356" creation-date="06/16/2023 04:13:33">
+      <stereotypes />
+      <associated-diagrams />
+      <owned-items />
+      <style class="default" />
+    </item>
+  </items>
+  <models>
+    <model id="p158621986181259000" name="Model 1" type="" namespace="" order-index="1">
+      <meta>
+        <authors>
+          <author> </author>
+        </authors>
+        <description />
+        <creation-date>06/16/2023 03:48:47</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+      <diagram type="matrix" id="p593672682123511273" name="data to roles" order-index="1" show-id="false" show-name="true" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author> </author>
+          </authors>
+          <description />
+          <creation-date>06/16/2023 03:48:47</creation-date>
+          <change-date>06/16/2023 04:13:33</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <matrix type="crud">
+          <columns>
+            <column uid="c_dfa38757a06946a7be7e35912cb15e47">client</column>
+            <column uid="c_f6f4eef96ad847a5a1ace60f1c0aed2b">administrator</column>
+            <column uid="c_545b2877c3174fc9a4b9ea9bed1af59e">warehouse</column>
+            <column uid="c_c1cbe869947441899222bb0836e5db25">courier</column>
+          </columns>
+          <rows>
+            <row uid="r_11d1724c9c934d67864d6954ea41528b">order</row>
+            <row uid="r_c82811e9e0b94a4788d7a41b25a1e871">book</row>
+            <row uid="r_5cb7dbdc8829468683eb571f351c83f9">admin data</row>
+            <row uid="r_65618d8e3aab4228bf9a6272e2716bbf">client data</row>
+          </rows>
+          <cells>
+            <cell c="c_dfa38757a06946a7be7e35912cb15e47" r="r_11d1724c9c934d67864d6954ea41528b" roles="C,R,U,D" />
+            <cell c="c_f6f4eef96ad847a5a1ace60f1c0aed2b" r="r_11d1724c9c934d67864d6954ea41528b" roles="R,U,D" />
+            <cell c="c_545b2877c3174fc9a4b9ea9bed1af59e" r="r_11d1724c9c934d67864d6954ea41528b" roles="R" />
+            <cell c="c_c1cbe869947441899222bb0836e5db25" r="r_11d1724c9c934d67864d6954ea41528b" roles="R" />
+            <cell c="c_dfa38757a06946a7be7e35912cb15e47" r="r_c82811e9e0b94a4788d7a41b25a1e871" roles="R" />
+            <cell c="c_f6f4eef96ad847a5a1ace60f1c0aed2b" r="r_c82811e9e0b94a4788d7a41b25a1e871" roles="C,R,U,D" />
+            <cell c="c_545b2877c3174fc9a4b9ea9bed1af59e" r="r_c82811e9e0b94a4788d7a41b25a1e871" roles="R,U" />
+            <cell c="c_c1cbe869947441899222bb0836e5db25" r="r_c82811e9e0b94a4788d7a41b25a1e871" roles="R" />
+            <cell c="c_dfa38757a06946a7be7e35912cb15e47" r="r_5cb7dbdc8829468683eb571f351c83f9" roles="" />
+            <cell c="c_f6f4eef96ad847a5a1ace60f1c0aed2b" r="r_5cb7dbdc8829468683eb571f351c83f9" roles="C,R,U,D" />
+            <cell c="c_545b2877c3174fc9a4b9ea9bed1af59e" r="r_5cb7dbdc8829468683eb571f351c83f9" roles="" />
+            <cell c="c_c1cbe869947441899222bb0836e5db25" r="r_5cb7dbdc8829468683eb571f351c83f9" roles="" />
+            <cell c="c_dfa38757a06946a7be7e35912cb15e47" r="r_65618d8e3aab4228bf9a6272e2716bbf" roles="C,R,U,D" />
+            <cell c="c_f6f4eef96ad847a5a1ace60f1c0aed2b" r="r_65618d8e3aab4228bf9a6272e2716bbf" roles="R,U,D" />
+            <cell c="c_545b2877c3174fc9a4b9ea9bed1af59e" r="r_65618d8e3aab4228bf9a6272e2716bbf" roles="" />
+            <cell c="c_c1cbe869947441899222bb0836e5db25" r="r_65618d8e3aab4228bf9a6272e2716bbf" roles="R" />
+          </cells>
+        </matrix>
+        <abstract-items />
+        <layer name="Default" visible="true" enabled="true" locked="false">
+          <item id="di623884619750009052" iid="d18bfcd398404542bf4bd2b3d01ea6bd" creation-date="06/16/2023 03:48:47" order-index="0" type="matrix">
+            <layout ax="0" ay="-1" awidth="800" aheight="600" x="0" y="-1" width="800" height="600" angle="0" />
+          </item>
+          <item id="di193538829521252270" iid="23953e07b7714e589cdb2ba621477620" creation-date="06/16/2023 04:13:33" order-index="1" type="entity">
+            <layout ax="-330" ay="699" awidth="140" aheight="100" x="-330" y="699" width="140" height="100" angle="0" />
+          </item>
+          <item id="di466665995311412890" iid="ab5b7e60d3ca4a9a8631da66bda8d9d8" creation-date="06/16/2023 04:13:33" order-index="2" type="comment-connector">
+            <layout line-style="oblique" lock-start-point="false" lock-end-point="false" lock-to-fields="false" name-position="10,-10" auto-path="" x1="-190" y1="701" x2="0" y2="572" start-border-pos="0.255681762695313" end-border-pos="0.761363627115885">
+              <points>
+                <point x="-190" y="701" />
+                <point x="0" y="572" />
+              </points>
+            </layout>
+            <relation from="di193538829521252270" from-iid="23953e07b7714e589cdb2ba621477620" to="di623884619750009052" to-iid="d18bfcd398404542bf4bd2b3d01ea6bd" />
+          </item>
+        </layer>
+      </diagram>
+      <diagram type="matrix" id="p150208374538255223" name="activities to roles" order-index="2" overview-order-index="0" show-id="false" show-name="true" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author> </author>
+          </authors>
+          <description />
+          <creation-date>06/16/2023 03:53:06</creation-date>
+          <change-date>06/16/2023 03:53:06</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <matrix type="crud">
+          <columns>
+            <column uid="c_1766c280674649ffa6f88344d01a00ad">client</column>
+            <column uid="c_4200e04321384781a988d721a9dea2c1">administrator</column>
+            <column uid="c_0ad864d187fa44409ef2670692aa0123">warehouse</column>
+            <column uid="c_e8a59a4000e64e34887af062756ba600">courier</column>
+          </columns>
+          <rows>
+            <row uid="r_929c97edf64c4d6c9653660e7de3d80a">Processing orders</row>
+            <row uid="r_f1fd0ce4b4aa48e08312f223cffab877">add book to order</row>
+            <row uid="r_54edbb4ac4aa41eab1c4a6c86dd67685">receive order</row>
+            <row uid="r_4ace3f56271d43a4b30cd5987edf203a">calculate order price</row>
+            <row uid="r_dbb7dbed483c4910996372d08a83b7ba">update order status</row>
+            <row uid="r_ad84a58cb888431d831239c51c6895aa">deliver order</row>
+            <row uid="r_a22fb83cb7d1430c89248b35f1a699be">handling client data</row>
+            <row uid="r_2052e4fc8f5d4f498baba508d9b6de22">receive personal client data</row>
+            <row uid="r_164168d2018d4e0fb0f204e1ce2082ed">check book stock</row>
+            <row uid="r_f19dd3cedbd34bdb8e0bbdbabc38467f">get payment</row>
+          </rows>
+          <cells>
+            <cell c="c_1766c280674649ffa6f88344d01a00ad" r="r_929c97edf64c4d6c9653660e7de3d80a" roles="C,R,U,D" />
+            <cell c="c_4200e04321384781a988d721a9dea2c1" r="r_929c97edf64c4d6c9653660e7de3d80a" roles="R,U,D" />
+            <cell c="c_0ad864d187fa44409ef2670692aa0123" r="r_929c97edf64c4d6c9653660e7de3d80a" roles="R" />
+            <cell c="c_e8a59a4000e64e34887af062756ba600" r="r_929c97edf64c4d6c9653660e7de3d80a" roles="R" />
+            <cell c="c_1766c280674649ffa6f88344d01a00ad" r="r_f1fd0ce4b4aa48e08312f223cffab877" roles="C,R,U" />
+            <cell c="c_4200e04321384781a988d721a9dea2c1" r="r_f1fd0ce4b4aa48e08312f223cffab877" roles="" />
+            <cell c="c_0ad864d187fa44409ef2670692aa0123" r="r_f1fd0ce4b4aa48e08312f223cffab877" roles="" />
+            <cell c="c_e8a59a4000e64e34887af062756ba600" r="r_f1fd0ce4b4aa48e08312f223cffab877" roles="" />
+            <cell c="c_1766c280674649ffa6f88344d01a00ad" r="r_54edbb4ac4aa41eab1c4a6c86dd67685" roles="R" />
+            <cell c="c_4200e04321384781a988d721a9dea2c1" r="r_54edbb4ac4aa41eab1c4a6c86dd67685" roles="R,U" />
+            <cell c="c_0ad864d187fa44409ef2670692aa0123" r="r_54edbb4ac4aa41eab1c4a6c86dd67685" roles="R" />
+            <cell c="c_e8a59a4000e64e34887af062756ba600" r="r_54edbb4ac4aa41eab1c4a6c86dd67685" roles="R" />
+            <cell c="c_1766c280674649ffa6f88344d01a00ad" r="r_4ace3f56271d43a4b30cd5987edf203a" roles="R" />
+            <cell c="c_4200e04321384781a988d721a9dea2c1" r="r_4ace3f56271d43a4b30cd5987edf203a" roles="C,R,U,D" />
+            <cell c="c_0ad864d187fa44409ef2670692aa0123" r="r_4ace3f56271d43a4b30cd5987edf203a" roles="" />
+            <cell c="c_e8a59a4000e64e34887af062756ba600" r="r_4ace3f56271d43a4b30cd5987edf203a" roles="R" />
+            <cell c="c_1766c280674649ffa6f88344d01a00ad" r="r_dbb7dbed483c4910996372d08a83b7ba" roles="R" />
+            <cell c="c_4200e04321384781a988d721a9dea2c1" r="r_dbb7dbed483c4910996372d08a83b7ba" roles="R,U" />
+            <cell c="c_0ad864d187fa44409ef2670692aa0123" r="r_dbb7dbed483c4910996372d08a83b7ba" roles="R,U" />
+            <cell c="c_e8a59a4000e64e34887af062756ba600" r="r_dbb7dbed483c4910996372d08a83b7ba" roles="R" />
+            <cell c="c_1766c280674649ffa6f88344d01a00ad" r="r_ad84a58cb888431d831239c51c6895aa" roles="R" />
+            <cell c="c_4200e04321384781a988d721a9dea2c1" r="r_ad84a58cb888431d831239c51c6895aa" roles="R" />
+            <cell c="c_0ad864d187fa44409ef2670692aa0123" r="r_ad84a58cb888431d831239c51c6895aa" roles="" />
+            <cell c="c_e8a59a4000e64e34887af062756ba600" r="r_ad84a58cb888431d831239c51c6895aa" roles="C,R,U,D" />
+            <cell c="c_1766c280674649ffa6f88344d01a00ad" r="r_a22fb83cb7d1430c89248b35f1a699be" roles="C,R,U,D" />
+            <cell c="c_4200e04321384781a988d721a9dea2c1" r="r_a22fb83cb7d1430c89248b35f1a699be" roles="C,R,U,D" />
+            <cell c="c_0ad864d187fa44409ef2670692aa0123" r="r_a22fb83cb7d1430c89248b35f1a699be" roles="" />
+            <cell c="c_e8a59a4000e64e34887af062756ba600" r="r_a22fb83cb7d1430c89248b35f1a699be" roles="R" />
+            <cell c="c_1766c280674649ffa6f88344d01a00ad" r="r_2052e4fc8f5d4f498baba508d9b6de22" roles="" />
+            <cell c="c_4200e04321384781a988d721a9dea2c1" r="r_2052e4fc8f5d4f498baba508d9b6de22" roles="R,U,D" />
+            <cell c="c_0ad864d187fa44409ef2670692aa0123" r="r_2052e4fc8f5d4f498baba508d9b6de22" roles="" />
+            <cell c="c_e8a59a4000e64e34887af062756ba600" r="r_2052e4fc8f5d4f498baba508d9b6de22" roles="R" />
+            <cell c="c_1766c280674649ffa6f88344d01a00ad" r="r_164168d2018d4e0fb0f204e1ce2082ed" roles="" />
+            <cell c="c_4200e04321384781a988d721a9dea2c1" r="r_164168d2018d4e0fb0f204e1ce2082ed" roles="R" />
+            <cell c="c_0ad864d187fa44409ef2670692aa0123" r="r_164168d2018d4e0fb0f204e1ce2082ed" roles="C,R,U,D" />
+            <cell c="c_e8a59a4000e64e34887af062756ba600" r="r_164168d2018d4e0fb0f204e1ce2082ed" roles="" />
+            <cell c="c_1766c280674649ffa6f88344d01a00ad" r="r_f19dd3cedbd34bdb8e0bbdbabc38467f" roles="R,U" />
+            <cell c="c_4200e04321384781a988d721a9dea2c1" r="r_f19dd3cedbd34bdb8e0bbdbabc38467f" roles="" />
+            <cell c="c_0ad864d187fa44409ef2670692aa0123" r="r_f19dd3cedbd34bdb8e0bbdbabc38467f" roles="" />
+            <cell c="c_e8a59a4000e64e34887af062756ba600" r="r_f19dd3cedbd34bdb8e0bbdbabc38467f" roles="C,R,U,D" />
+          </cells>
+        </matrix>
+        <abstract-items />
+        <layer name="Default" visible="true" enabled="true" locked="false">
+          <item id="di764622106229769296" iid="b7d045fa08b84b11a8b91c205cac0c9a" creation-date="06/16/2023 03:53:06" order-index="0" type="matrix">
+            <layout ax="0" ay="0" awidth="800" aheight="600" x="0" y="0" width="800" height="600" angle="0" />
+          </item>
+        </layer>
+      </diagram>
+      <diagram type="matrix" id="p779395804680195954" name="resources to roles" order-index="3" overview-order-index="1" show-id="false" show-name="true" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author> </author>
+          </authors>
+          <description />
+          <creation-date>06/16/2023 04:09:06</creation-date>
+          <change-date>06/16/2023 04:09:06</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <matrix type="crud">
+          <columns>
+            <column uid="c_6ddc86c0e8f4414088b0d9b2a7a6b651">client</column>
+            <column uid="c_65953c90220544c59dc041389576c1af">administator</column>
+            <column uid="c_f90ba53c87684d9488e9b8722d005a66">warehouse</column>
+            <column uid="c_db7eb314e01b4ec1a5613c8e17a06308">courier</column>
+          </columns>
+          <rows>
+            <row uid="r_24710d19e1dd4c2d824ecf273e0cd7dc">computers</row>
+            <row uid="r_6eada29fb91f4c4eb6d9dbdb43916140">order sheet</row>
+            <row uid="r_5ad737add84e437bb3ae3dbeefd59f9c">courier's phone</row>
+            <row uid="r_87ac4e8a798a47a5b61d07fe8c22ab18">deliver sheet</row>
+          </rows>
+          <cells>
+            <cell c="c_6ddc86c0e8f4414088b0d9b2a7a6b651" r="r_24710d19e1dd4c2d824ecf273e0cd7dc" roles="C,R,U,D" />
+            <cell c="c_65953c90220544c59dc041389576c1af" r="r_24710d19e1dd4c2d824ecf273e0cd7dc" roles="C,R,U,D" />
+            <cell c="c_f90ba53c87684d9488e9b8722d005a66" r="r_24710d19e1dd4c2d824ecf273e0cd7dc" roles="" />
+            <cell c="c_db7eb314e01b4ec1a5613c8e17a06308" r="r_24710d19e1dd4c2d824ecf273e0cd7dc" roles="" />
+            <cell c="c_6ddc86c0e8f4414088b0d9b2a7a6b651" r="r_6eada29fb91f4c4eb6d9dbdb43916140" roles="" />
+            <cell c="c_65953c90220544c59dc041389576c1af" r="r_6eada29fb91f4c4eb6d9dbdb43916140" roles="C,R,U,D" />
+            <cell c="c_f90ba53c87684d9488e9b8722d005a66" r="r_6eada29fb91f4c4eb6d9dbdb43916140" roles="R" />
+            <cell c="c_db7eb314e01b4ec1a5613c8e17a06308" r="r_6eada29fb91f4c4eb6d9dbdb43916140" roles="R" />
+            <cell c="c_6ddc86c0e8f4414088b0d9b2a7a6b651" r="r_5ad737add84e437bb3ae3dbeefd59f9c" roles="" />
+            <cell c="c_65953c90220544c59dc041389576c1af" r="r_5ad737add84e437bb3ae3dbeefd59f9c" roles="" />
+            <cell c="c_f90ba53c87684d9488e9b8722d005a66" r="r_5ad737add84e437bb3ae3dbeefd59f9c" roles="" />
+            <cell c="c_db7eb314e01b4ec1a5613c8e17a06308" r="r_5ad737add84e437bb3ae3dbeefd59f9c" roles="C,R,U,D" />
+            <cell c="c_6ddc86c0e8f4414088b0d9b2a7a6b651" r="r_87ac4e8a798a47a5b61d07fe8c22ab18" roles="C,R,U,D" />
+            <cell c="c_65953c90220544c59dc041389576c1af" r="r_87ac4e8a798a47a5b61d07fe8c22ab18" roles="C,R,U,D" />
+            <cell c="c_f90ba53c87684d9488e9b8722d005a66" r="r_87ac4e8a798a47a5b61d07fe8c22ab18" roles="" />
+            <cell c="c_db7eb314e01b4ec1a5613c8e17a06308" r="r_87ac4e8a798a47a5b61d07fe8c22ab18" roles="C,R,U,D" />
+          </cells>
+        </matrix>
+        <abstract-items />
+        <layer name="Default" visible="true" enabled="true" locked="false">
+          <item id="di107673510567836339" iid="5ca433bf00714f4baf66c8241366f157" creation-date="06/16/2023 04:09:06" order-index="0" type="matrix">
+            <layout ax="0" ay="0" awidth="800" aheight="600" x="0" y="0" width="800" height="600" angle="0" />
+          </item>
+        </layer>
+      </diagram>
+    </model>
+  </models>
+  <documents />
+  <document-templates />
+</sim-project>
