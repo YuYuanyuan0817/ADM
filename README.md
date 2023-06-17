@@ -1,3 +1,4 @@
+
 #  ADM
 
 ## 1.Choose one business-model and company type
@@ -46,10 +47,17 @@ UML-seller book.drawio.png
 
 ## 3.Create conceptual logical and physical data model
 
+conceptual data model
 
+![Ze4uuyWMmmI](https://github.com/YuYuanyuan0817/ADM/assets/118308478/83255278-fb73-4a91-85bf-e10cf7514dcb)
 
+ physical data model
 
+![kqNE1DUjoYg](https://github.com/YuYuanyuan0817/ADM/assets/118308478/e65a7fc6-163d-4a4f-882f-4a377e537629) 
 
+logical  data model
+
+![w7rpeRVfM6w](https://github.com/YuYuanyuan0817/ADM/assets/118308478/f020e8f4-b7d9-41e1-a617-24b6c343aab5)
 
 
 ## 4.Create a database and fill the database with real or synthetic data
@@ -132,8 +140,16 @@ Use DBeaver to monitor the database, including server sessions, data read and wr
 ![monitor1](https://github.com/YuYuanyuan0817/ADM/assets/118308478/a2eb3145-36de-492e-83c4-5fe5b335bc4a)
 
 
+use DME to make Master Data Management(MDM)
+
+![image](https://github.com/YuYuanyuan0817/ADM/assets/118308478/bfb88639-76b9-42f5-9325-6344803a4df3)
+
+
 # 7.Visual model analysis
 
+Visual analysis with tableau
 
+
+![仪表板](https://github.com/YuYuanyuan0817/ADM/assets/118308478/632330c1-eb8d-4e33-a696-74acb4a77392)
 
 
