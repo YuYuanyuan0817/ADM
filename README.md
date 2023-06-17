@@ -12,11 +12,35 @@ The textbook rental websites can make money from following revenue channels:
 
 ## 2.Describe business model of chosen company/organization
 
+
 The two images below are a brief introduction to the whole business process from both the customer's and the seller's point of view.
+
 
 ![seller process](https://github.com/YuYuanyuan0817/ADM/assets/118308478/741559a4-6c1d-4455-adac-a6b4bf7b8e37) ![customer process](https://github.com/YuYuanyuan0817/ADM/assets/118308478/5de5df8b-2643-4dfa-9bc2-9db81a6873d2)
 
+Below is a description of the specific business process
 
+Business Process Modeling(BPM)
+
+
+![image](https://github.com/YuYuanyuan0817/ADM/assets/118308478/c8ddb3f2-44e3-4b73-a7fb-014c7ee191b6)
+
+ UML-order registration.drawio.png
+
+
+![image](https://github.com/YuYuanyuan0817/ADM/assets/118308478/8cd04b96-f4c4-48f6-baf0-4948446366a6)
+
+
+UML-delivery order.drawio.png
+
+
+![image](https://github.com/YuYuanyuan0817/ADM/assets/118308478/588fe075-83cf-436e-81ba-cc8156bbb016)
+
+
+UML-seller book.drawio.png
+
+
+![image](https://github.com/YuYuanyuan0817/ADM/assets/118308478/a15adeb2-3f7f-4a2f-bc85-547d68a64330)
 
 
 
@@ -91,7 +115,6 @@ This is the activities to roles CRUD form
 ![activities to roles](https://github.com/YuYuanyuan0817/ADM/assets/118308478/7179664b-4176-4457-9ba5-4ebe9886865f)
 
 
-
 This is the resources to roles CRUD form
 
 
@@ -109,7 +132,7 @@ Use DBeaver to monitor the database, including server sessions, data read and wr
 ![monitor1](https://github.com/YuYuanyuan0817/ADM/assets/118308478/a2eb3145-36de-492e-83c4-5fe5b335bc4a)
 
 
-# 7.Describe multidimensional model for BI solution
+# 7.Visual model analysis
 
 
 
